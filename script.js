@@ -8,7 +8,6 @@
     "How we work": "Cómo trabajamos",
     "Let's talk →": "Empecemos →",
     // HERO
-    "AI Transformation · Humans in the loop": "Transformación con IA · Humans in the loop",
     "AI transformation that actually works.": "Transformación con IA que funciona.",
     "We help CEOs and Boards lead the AI era, keeping humans in the loop, with 30 years of hands‑on tech leadership and a social sciences background.":
       "Ayudamos a CEOs y Boards a liderar la era de la IA involucrando a las personas en el proceso, con 30 años de liderazgo tecnológico hands-on y background en ciencias sociales.",
