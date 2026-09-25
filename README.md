@@ -1,4 +1,4 @@
-# thewisework (by Claude)
+# thewisework
 
 Código de la web de Wise Work, publicada en https://thewisework.com
 
